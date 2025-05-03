@@ -52,9 +52,8 @@ margin-bottom: 40px;
 </div>
 <div class="image-box">
 <img src="https://github.com/user-attachments/assets/881d276c-e19e-4b43-9d47-21b1cd04b939" alt="Football Field">
-</div> 
-border: 27px solid #000;
-border-image: url(https://github.com/user-attachments/assets/c12b94df-d6c1-4e02-9d44-cb23f37b79db) 27 round;
+</div> border: 27px solid #000;
+</div>border-image: url(https://github.com/user-attachments/assets/c12b94df-d6c1-4e02-9d44-cb23f37b79db) 27 round;
 <div class="image-box">
 <img src="https://github.com/user-attachments/assets/1c2e8b9b-0e58-43f6-befb-e3feeda330a8" alt="Dinosaur">
 </div>
@@ -65,7 +64,7 @@ border-image: url(https://github.com/user-attachments/assets/c12b94df-d6c1-4e02-
 <img src="https://github.com/user-attachments/assets/378a15aa-f458-4d26-b663-07bf2a96da54" alt="Butterfly">
 </div>
 <div class="image-box">
-<img src="" alt="Presenting">
+<img src="https://github.com/user-attachments/assets/902b9c0e-234f-46d0-87e1-f5f975f29020" alt="Presenting">
 </div>
 </div>
 
