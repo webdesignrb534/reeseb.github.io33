@@ -51,8 +51,10 @@ margin-bottom: 40px;
 <img src="https://github.com/user-attachments/assets/6c13faff-9b57-493d-8c48-84c5c6c1ff51" alt="Penguins">
 </div>
 <div class="image-box">
-<img src="https://github.com/user-attachments/assets/c12b94df-d6c1-4e02-9d44-cb23f37b79db" alt="Tic Tac Toe">
-</div>
+<img src="https://github.com/user-attachments/assets/881d276c-e19e-4b43-9d47-21b1cd04b939" alt="Football Field">
+</div> 
+border: 27px solid #000;
+border-image: url(https://github.com/user-attachments/assets/c12b94df-d6c1-4e02-9d44-cb23f37b79db) 27 round;
 <div class="image-box">
 <img src="https://github.com/user-attachments/assets/1c2e8b9b-0e58-43f6-befb-e3feeda330a8" alt="Dinosaur">
 </div>
@@ -63,7 +65,7 @@ margin-bottom: 40px;
 <img src="https://github.com/user-attachments/assets/378a15aa-f458-4d26-b663-07bf2a96da54" alt="Butterfly">
 </div>
 <div class="image-box">
-<img src="https://github.com/user-attachments/assets/881d276c-e19e-4b43-9d47-21b1cd04b939" alt="Football Field">
+<img src="" alt="Presenting">
 </div>
 </div>
 
