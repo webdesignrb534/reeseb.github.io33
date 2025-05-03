@@ -60,7 +60,8 @@ margin-bottom: 40px;
 <img src="seagull.png" alt="Seagull">
 </div>
 <div class="image-box">
-<img src="https://github.com/user-attachments/assets/d55e97bf-8273-4d96-9e7c-cfeba74e57b4"
+<img src="https://github.com/user-attachments/assets/378a15aa-f458-4d26-b663-07bf2a96da54"
+"
 " alt="Butterfly">
 </div>
 <div class="image-box">
