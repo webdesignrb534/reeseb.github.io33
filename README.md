@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -61,7 +60,8 @@ margin-bottom: 40px;
 <img src="seagull.png" alt="Seagull">
 </div>
 <div class="image-box">
-<img src="butterfly.png" alt="Butterfly">
+<img src="https://github.com/user-attachments/assets/d55e97bf-8273-4d96-9e7c-cfeba74e57b4"
+" alt="Butterfly">
 </div>
 <div class="image-box">
 <img src="presenting.png" alt="Presenting">
