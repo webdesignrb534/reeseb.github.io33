@@ -66,5 +66,4 @@ margin-bottom: 40px;
 <img src="https://github.com/user-attachments/assets/902b9c0e-234f-46d0-87e1-f5f975f29020" alt="Presenting">
 </div>
 
-</body>
-</html>
+
